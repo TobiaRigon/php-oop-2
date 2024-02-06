@@ -3,6 +3,8 @@
 include 'Product.php';
 include 'Category.php';
 include 'PetProduct.php';
+include 'ShopException.php';
+include 'User.php';
 
 $dogCategory = new Category("Cani", "🐶");
 $catCategory = new Category("Gatti", "🐱");
