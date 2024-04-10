@@ -12,4 +12,4 @@ This repository contains a PHP project aimed at creating an online shop using ob
 
 ### Extension:
 
-This project extends the functionality of the [php-oop-1](ink-to-php-oop-1-repo](https://github.com/TobiaRigon/php-oop-1/tree/main) repository.
+This project extends the functionality of the [php-oop-1](https://github.com/TobiaRigon/php-oop-1/tree/main) repository.
